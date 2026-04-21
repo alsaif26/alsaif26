@@ -9,7 +9,7 @@
 ## 🖥️ whoami
 
 
-Name : Safu
+Name : Saif
 Role : Cybersecurity Enthusiast | SOC Analyst
 Location : Bangladesh 🇧🇩
 Mission : Protect. Detect. Respond.
@@ -17,17 +17,7 @@ Mission : Protect. Detect. Respond.
 
 ---
 
-## ⚡ Skills
-
-
-Cybersecurity ████████████░░░░ 75%
-Python ████████████░░░░ 75%
-Flask ██████████░░░░░░ 65%
-HTML/CSS/JS ████████████░░░░ 75%
-Linux ████████░░░░░░░░ 55%
-Network Security ████████░░░░░░░░ 55%
-SQLite ████████░░░░░░░░ 55%
-Git & GitHub ██████████░░░░░░ 65%
+░ 65%
 
 
 ---
