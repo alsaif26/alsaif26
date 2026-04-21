@@ -1,16 +1,72 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**alsaif26/alsaif26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=🛡️+Cybersecurity+Enthusiast;🔍+SOC+Analyst+%7C+Defender;💻+Full+Stack+Developer;🎓+CSE+Student+%7C+Bangladesh;⚡+Always+Learning%2C+Always+Defending)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🖥️ whoami
+
+
+Name : Safu
+Role : Cybersecurity Enthusiast | SOC Analyst
+Location : Bangladesh 🇧🇩
+Mission : Protect. Detect. Respond.
+
+
+---
+
+## ⚡ Skills
+
+
+Cybersecurity ████████████░░░░ 75%
+Python ████████████░░░░ 75%
+Flask ██████████░░░░░░ 65%
+HTML/CSS/JS ████████████░░░░ 75%
+Linux ████████░░░░░░░░ 55%
+Network Security ████████░░░░░░░░ 55%
+SQLite ████████░░░░░░░░ 55%
+Git & GitHub ██████████░░░░░░ 65%
+
+
+---
+
+## 🛠 Tools
+
+![Python](https://img.shields.io/badge/Python-0a0e1a?style=for-the-badge&logo=python&logoColor=00FF88)
+![Flask](https://img.shields.io/badge/Flask-0a0e1a?style=for-the-badge&logo=flask&logoColor=00FF88)
+![Linux](https://img.shields.io/badge/Linux-0a0e1a?style=for-the-badge&logo=linux&logoColor=00FF88)
+![Kali](https://img.shields.io/badge/Kali_Linux-0a0e1a?style=for-the-badge&logo=kalilinux&logoColor=00FF88)
+
+---
+
+## 🚀 Projects
+
+🛡️ SOC Security Dashboard  
+https://github.com/alsaif26/soc-security-dashboard
+
+Live Demo  
+https://soc-security-dashboard.onrender.com
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=alsaif26&show_icons=true&theme=chartreuse-dark)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsaif26&layout=compact&theme=chartreuse-dark)
+
+---
+
+## 📡 Connect
+
+LinkedIn  
+https://www.linkedin.com/in/mohammed-saif-177050347/
+
+GitHub  
+https://github.com/alsaif26
+
+---
+
+Thanks for visiting! 🛡️
