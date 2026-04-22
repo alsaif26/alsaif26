@@ -16,7 +16,7 @@
 
 | | |
 |---|---|
-| 👤 **Name** | Mohammed Saif |
+| 👤 **Name** | Mohammed Saif Al Sabah |
 | 🎯 **Role** | Cybersecurity Enthusiast & SOC Analyst |
 | 📍 **Location** | Bangladesh 🇧🇩 |
 | 🎓 **Status** | CSE Student |
